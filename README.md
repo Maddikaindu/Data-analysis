@@ -21,7 +21,7 @@ Reading the data with the help of head() and tail() functions
 Describing the data using desc() function that helps in getting information like count,mean,min and max
 Using info() function that helps in getting the summary of dataframe structure like rows,columnsand datatype
 Cleaned the data  by handling  missing  values and duplicates
-Used groupby(),value_count(), and sort_values() for analysis
+Used groupby(),value_counts(), and sort_values() for analysis
 ## Key Insights
 The most common podcast genre is **[Tech Talks]**  and its avg podcast duration is **[64 min]**
 Among all Bussiness genre has highest avg duration of **[3391 min]**
